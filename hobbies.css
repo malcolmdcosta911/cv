@@ -1,0 +1,19 @@
+body{
+    margin-top: 20px;
+    margin-left:20px;
+    background-color: #0471A6;
+    color: #89AAE6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+ul{
+list-style-type:none;
+}
+
+
+a{
+    text-decoration: none;
+    color:#061826;
+}
